@@ -1,5 +1,5 @@
 # DReLAB_tutorial
-Brief tutorial on how to use the DReLAB dataset to generate high-performance botnet classifier and to test them against adversarial evasive samples.
+In this tutorial we show how to develop proficient botnet classifiers, and then how to use the DReLAB dataset to evade them. 
 
 ## Instructions
 In order to execute this tutorial follow these few steps:
