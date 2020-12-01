@@ -2,7 +2,7 @@
 Brief tutorial on how to use the DReLAB dataset to generate high-performance botnet classifier and to test them against adversarial evasive samples.
 
 ## Instructions
-In order to execute this tutorial you have to follow few steps:
+In order to execute this tutorial follow these few steps:
 1. Install the following libraries (we refer to their relative web pages for the installation guides):
   * Pandas: [Pandas Homepage](https://pandas.pydata.org/pandas-docs/stable/index.html)
   * Scikit-Learn: [Scikit-Learn HomePage](https://scikit-learn.org/stable/)
@@ -11,7 +11,7 @@ In order to execute this tutorial you have to follow few steps:
 3. Download the Jupyter Notebook from this repository and place it at the same directory-level as the DReLAB/ directory which contains all the DReLAB data.
 
 ## BibTex Citation
-If you use DReLAB dataset in your works, please add a reference to the original research paper and to the data article.
+If you use DReLAB dataset in your work, please add a reference to the original research paper and to the data article.
 Original research paper:
 ```
 @article{apruzzese2020deep,
