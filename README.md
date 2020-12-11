@@ -12,7 +12,7 @@ In order to execute this tutorial follow these few steps (Python 3.7):
 
 ## BibTex Citation
 If you use DReLAB dataset in your work, please add a reference to the original research paper and to the data article.
-Original research paper:
+<\br>Original research paper:
 ```
 @article{apruzzese2020deep,
   title={Deep Reinforcement Adversarial Learning against Botnet Evasion Attacks},
