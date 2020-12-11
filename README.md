@@ -7,7 +7,7 @@ In order to execute this tutorial follow these few steps (Python 3.7):
   * Pandas: [Pandas Homepage](https://pandas.pydata.org/pandas-docs/stable/index.html)
   * Scikit-Learn 0.23: [Scikit-Learn HomePage](https://scikit-learn.org/stable/)
   * Matplotlib: [Matplotlib HomePage](https://matplotlib.org/index.html)
-2. Download the DReLAB dataset at the following link: [link to Mendeley Data](https://data.mendeley.com/datasets/nf22d786tj/draft?a=1f4209d3-a162-4355-9806-7db34ff161e6)
+2. Download the DReLAB dataset at the following link: [link to Mendeley Data](https://data.mendeley.com/datasets/nf22d786tj/1)
 3. Download the Jupyter Notebook from this repository and place it at the same directory-level as the DReLAB/ directory which contains all the DReLAB data.
 
 ## BibTex Citation
