@@ -22,3 +22,13 @@ Original research paper:
   publisher={IEEE}
 }
 ```
+Data Article:
+```
+@article{venturi2020drelab,
+  title={DReLAB – Deep REinforcement Learning Adversarial Botnet: A benchmark dataset for adversarial attacks against botnet Intrusion Detection Systems},
+  author={Venturi, Andrea and Apruzzese, Giovanni and Andreolini, Mauro and  Colajanni, Michele and Marchetti, Mirco},
+  journal={Data in Brief},
+  year={2020},
+  publisher={Elsevier}
+}
+```
