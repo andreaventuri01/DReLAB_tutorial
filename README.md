@@ -19,6 +19,9 @@ Original research paper:
   author={Apruzzese, Giovanni and Andreolini, Mauro and Marchetti, Mirco and Venturi, Andrea and Colajanni, Michele},
   journal={IEEE Transactions on Network and Service Management},
   year={2020},
+  volume={17},
+  number={4},
+  pages={1975-1987},
   publisher={IEEE}
 }
 ```
